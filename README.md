@@ -1,7 +1,3 @@
-Here's a high-quality README for your GitHub repository:
-
----
-
 # Objectron
 
 ![Object Detection](https://github.com/MaazKhan3/Objectron/assets/banner.png)  
